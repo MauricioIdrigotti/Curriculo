@@ -55,7 +55,7 @@ Implementação de sistemas.
 
 ## Redes Sociais
 *  [Linkedin](https://www.linkedin.com/in/maur%C3%ADcio-idrigotti-sereno/)
-*  [Instagram]https://www.instagram.com/mau_idrigotti/()
+*  [Instagram](https://www.instagram.com/mau_idrigotti/)
 
 ## Informações Adicionais
 * Premiado com a medalha de mérito da Olimpíada Brasileira de Matématicas das Escolas Públicas (OBMEP) (2018).
